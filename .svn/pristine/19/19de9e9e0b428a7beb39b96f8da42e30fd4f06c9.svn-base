@@ -1,0 +1,36 @@
+rapport2.pdf
+------------
+* Bien d'avoir voulu faire des diagrammes de séquences, mais je pense que la partie du cours sur les diagrammes de séquence n'a pas été comprise (le contexte n'aide pas!)
+
+Un diagramme de séquence c'est ça :
+http://cregut.perso.enseeiht.fr/CHUT/web/ENS/2019-1sn-tob/CONTENU/to-1sn-2019-cm-sequence-sujet.pdf
+Il permet de savoir qui appelle quelle mèthode et dans quel ordre.
+
+* Toujours pas de diagramme de classe.
+
+
+manuel-utilisateur2.pdf
+-----------------------
+
+Bien pour ce qui est fait.
+
+
+rapports individuels
+--------------------
+
+* Il manque le rapport de Dewi RICQUEBOURG
+
+* Pour les autres on voit ce que vous avez fait
+
+Sources
+-------
+
+* sources2.jar : non présent
+
+* Pensez à la javadoc! Faites le au fur et à mesure ça sera fastidieux de tout faire à la fin
+
+* Bonne architecture en package
+
+* ne compile pas :
+  - soucis d'encodage (attention à mettre des fichiers en UTF8)
+  - soucis avec le package org.newdawn.slick, non connu chez moi

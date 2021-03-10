@@ -1,0 +1,19 @@
+Ici, vous trouverez le lien pour rejoindre notre tableau Trello :
+https://trello.com/invite/b/yEdqId5O/c1b58bc9b9c78339f609608d3480a495/projet-long-golf
+
+
+
+Pour pouvoir utiliser ce que l'on fait, il faut préalablement ajouter
+ le contenu de ./lib au ClassPath et y a avoir attaché les natives
+  présents dans ./natives.
+
+Pour l'instant seul une version console très basique et peu robuste d'une
+partie classique et d'une partie coop sont disponibles.
+Une fois que c'est fait tout devrait compiler, il suffit de Run, les classes
+ LancerPartieClassique et LancerPartieCoop présentes dans :
+  ./src/jeu. ... ça devrait marcher ...
+
+
+
+-> Pour la version graphique, il faut run ViewControler present de la package
+interface. Vous pourrez accéder à l'éditeur.

@@ -1,0 +1,39 @@
+fonctionnalites.pdf
+-------------------
+
+* Ambitieux de gérer les 4 fonctionnalités proposées (2 types de parties + éditeur de terrain + boutique), mais intéressant.
+
+* Partie classique : pensez à définir comment un joueur fait pour jouer. Souris? Clavier? Comment est géré la direction, la force,...
+
+* On voit où vous voulez aller et vous pourrez avoir une architecture objet intéressante
+
+rapports individuels
+--------------------
+* tous les rapports individuels sont présents et on voit bien ce que chacun a fait : TB 
+
+* pour la sauvegarde regarder ce qui se passe du côté de la sérialisation de Java
+
+* rapport de Dewi RICQUEBOURG : trop léger et merci de mettre un pdf
+
+
+
+Retour sur diagramme de classe
+------------------------------
+* Si vous voulez un retour sur le diagramme de classe envisagé, déposez le moi sur le SVN à la fin de la prochaine itération
+
+* Pensez à faire des diagramme de séquences pour vous mettre d'accord sur la chronologie des opérations.
+
+
+Rappel sur MVC
+--------------
+* Il est INDISPENSABLE d'implanté un MVC. 
+Je veux voir au moins 2 packages : un pour le modèle (sans AUCUN composant graphique, image,...) et un pour contrôleur et vue (il est souvent difficile de séparer ces deux composants).
+
+
+Sources :
+---------
+Je n'ai pas regardé en détail mais : 
+* j'ai des soucis de compilation, au besoin mettez un README pour indiquer à l'utilisateur comment utiliser vos sources
+* Pensez à la javadoc! Faites le au fur et à mesure ça sera fastidieux de tout faire à la fin
+* Ça semble propre et bien avancé
+
